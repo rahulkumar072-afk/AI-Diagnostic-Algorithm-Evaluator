@@ -1,0 +1,9 @@
+Risk,Impact,Likelihood,Mitigation,Owner
+False negative,High,Medium,"Sensitivity-focused validation, human review and stop criteria",Clinical Lead
+Dataset bias,High,Medium,Subgroup validation and representative local data,ML Lead
+Data/interface error,High,Medium,"Input validation, integration testing and audit logs",IT Lead
+Cybersecurity incident,High,Low-Medium,"IAM, encryption, monitoring and vulnerability testing",Security Lead
+Model drift,High,Medium,Performance/drift monitoring and scheduled review,ML Lead
+Alert fatigue,Medium,Medium,Workflow testing and threshold optimisation,Clinical Lead
+System downtime,High,Low-Medium,"Backup, recovery and manual fallback",IT Lead
+Automation bias,High,Medium,"Training, explanation and explicit human override",Clinical Lead

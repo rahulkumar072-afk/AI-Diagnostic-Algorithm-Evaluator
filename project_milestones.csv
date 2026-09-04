@@ -1,0 +1,9 @@
+Phase,Timeline,Deliverable,Gate
+Governance & discovery,Month 1-2,"Use case, stakeholders, risk plan",Governance approval
+Data preparation,Month 2-4,Validated dataset and data dictionary,Data quality gate
+Model validation,Month 3-5,Local validation report,Performance/safety gate
+Product & integration,Month 4-7,Secure pilot-ready system,Security/UAT gate
+Silent-mode pilot,Month 7-8,Workflow and reliability evidence,Operational gate
+Controlled clinical pilot,Month 9-10,Pilot evaluation report,Clinical safety gate
+Scale decision,Month 11,Go/No-Go recommendation,Steering approval
+Scale & monitoring,Month 12+,Controlled expansion and monitoring,Ongoing review
